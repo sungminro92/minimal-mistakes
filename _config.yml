@@ -20,8 +20,8 @@ title                    : "Sungmin's Blogs"
 title_separator          : "-"
 subtitle                 : "living in the physical & digital world simultaneously"
 name                     : "Sungmin Ro"
-description              : "An amazing website where I keep my growing skills"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "An amazing website where I collect & present my growing skills"
+url                      : "https://sungminro92.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sungminro92/sungminro92.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -41,7 +41,7 @@ comments:
     num_posts            : 5 # 5 (default)
     colorscheme          : "light" # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-light" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -57,9 +57,9 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
+  path                   : blank # blank (default) uses feed.xml
+  hide                   : true # true, false (default)
+search                   :  # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a **multipotentialite**"
+  name             : "Sungmin Ro"
+  avatar           : "/assets/images/profile_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A meaningful day at a time"
   location         : "New York"
   email            : sungminro1992@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sungminro1992@gmail.com"
+      # url: "mailto:sungminro1992@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://github.com/sungminro92"
+      # url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
@@ -218,7 +218,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -282,6 +282,9 @@ defaults:
       path: ""
       type: posts
     values:
+      show_date: true
+      read_time: true
+      date_format: "%B %-d, %Y"
       layout: single
       author_profile: true
       read_time: true
