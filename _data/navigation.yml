@@ -1,12 +1,17 @@
 # main links
 main:
-  - title: "Testing"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-    # url: https://sungminro92.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
+  - title: "About"
+    # description: "read my bio"
+    url: /about/
+  - title: "Projects"
+    url: /projects/  
+    # description: "check out projects I've done!"
+  - title: "Blogs"
+    url: /blogs/
+    # description: "one meaningful day at a time"
+  - title: "TIL"
+    url: /today-i-learned/
+    # description: "Today I Learned..."
+  - title: "CV"
+    # description: "hire me!"
   #   url: /sitemap/

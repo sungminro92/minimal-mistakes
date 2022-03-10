@@ -41,7 +41,7 @@ comments:
     num_posts            : 5 # 5 (default)
     colorscheme          : "light" # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-light" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -102,8 +102,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Sungmin Ro"
+  avatar           : "/assets/images/profile_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a **multipotentialite**"
   location         : "New York"
   email            : # email
@@ -138,16 +138,13 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://github.com/sungminro92"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "http://github.com/sungminro92"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/minnie_artech/"
+    - label: "MinnieMadeNY"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/minniemadeny/"
 
 
 # Reading Files
@@ -285,6 +282,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false # true
       share: true
       related: true
