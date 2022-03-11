@@ -1,17 +1,12 @@
 # main links
 main:
   - title: "About"
-    # description: "read my bio"
     url: /about/
-  - title: "Projects"
-    url: /projects/  
-    # description: "check out projects I've done!"
+  - title: "Portfolio"
+    url: /portfolio/  
   - title: "Blogs"
-    url: /blogs/
-    # description: "one meaningful day at a time"
+    url: /posts/
   - title: "TIL"
     url: /today-i-learned/
-    # description: "Today I Learned..."
   - title: "CV"
-    # description: "hire me!"
   #   url: /sitemap/
