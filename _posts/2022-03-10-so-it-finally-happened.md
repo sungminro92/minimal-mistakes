@@ -27,7 +27,7 @@ Besides all of the cool stuffs I learned like building physical interactive prot
 
 As I was just a beginner coder, knowing how to incorportae API and manipulate its JSON data with a few blocks of code was just enough for me to pat myself on the back, haha.
 
-Ultimately, I was able to take a little step by step to create my own portfolio website and work through presenting my newbie projects on a single website, hosted on Github Pages!!
+Ultimately, I was able to take a little step by step to create my own portfolio website and work through presenting my newbie projects on a single website, hosted on [Github Pages](https://pages.github.com/)!!
 
 But today, I'm replacing my personal website with a whole new something I found out about recently - Jekyll, aka simple, blog aware, static site generator!
 
