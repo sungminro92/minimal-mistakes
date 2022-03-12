@@ -31,11 +31,11 @@ Ultimately, I was able to take a little step by step to create my own portfolio 
 
 But today, I'm replacing my personal website with a whole new something I found out about recently - Jekyll, aka simple, blog aware, static site generator!
 
-It was already being widely used among many other developers and there were definitely many resourceful documentations from them, however, it did take me a while to understand the whole template, dynamic components, markdown usages, and customizing things to begin with.
+Jekyll is already being widely used among many other developers and there were definitely many resourceful documentations from them, however, it did take me a while to understand the whole concept of its templates, dynamic components, markdown usages, and customizing things to begin with.
 
 After all the hectic moments figuring things out about [Minimal-Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes), I'm just writing my very first blog post with my excitement to have found a perfect way to express bits of my thoughts, keep records of my daily studies, and to collect all the things I want to remember - notes, advices, inspirations, and code examples and so on... Thanks to Michael Rose!
 
-Today was a bit of achievement indeed! I might not be a good writer at all but I'll still enjoy journaling through my journey on personal development and sharing any knowledge or showing what I'm capable of. Maybe for the sake of better future me.
+I might not be a good writer at all but I think starting today, using Jekyll as my personal journaling is going to be a great opportunity for me to express my journey on personal development and sharing any small knowledge or showing what I'm capable of. Maybe for the sake of better future me
 
 {% capture fig_img %}
 ![previousPortfolio]({{ '/assets/posts/post1/previous-portfolio.jpg' | relative_url }})
