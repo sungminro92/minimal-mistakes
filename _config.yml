@@ -276,7 +276,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   
-
+  
 defaults:
   # _posts
   - scope:
@@ -286,21 +286,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
       share: true
    # _portfolio
   - scope:
-      path: "/portfolio"
+      path: ""
       type: portfolio
     values:
       layout: single
-      author_profile: true
       share: true
-  # _posts
-  - scope:
-      path: "/posts"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      share: true  
