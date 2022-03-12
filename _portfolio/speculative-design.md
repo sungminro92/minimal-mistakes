@@ -1,6 +1,6 @@
 ---
-title: "Work-Life-Balance Speculative Product Design"
-excerpt: "Ginger Gulp design system including logo mark, website design, and branding applications."
+title: "Work-Life-Balance"
+excerpt: "Speculative product design for work-life-balance"
 header:
   teaser: /assets/projects/work-life-balance/wlb_s.jpg
 sidebar:

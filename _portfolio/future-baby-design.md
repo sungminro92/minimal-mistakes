@@ -1,9 +1,9 @@
 ---
-title: "Foo Bar Identity"
+title: "Future Baby Design"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/projects/speculative/main.jpg
+  teaser: assets/projects/speculative/th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
