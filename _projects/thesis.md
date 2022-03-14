@@ -19,13 +19,13 @@ gallery:
     alt: "manipulating the globe"
   - url: /assets/projects/thesis/wip1.gif
     image_path: /assets/projects/thesis/wip1.gif
-    alt: "work in progress"
+    alt: "work in process"
   - url: /assets/projects/thesis/wip2.gif
     image_path: /assets/projects/thesis/wip2.gif
-    alt: "work in progress"
+    alt: "work in process"
   - url: /assets/projects/thesis/wip3.gif
     image_path: /assets/projects/thesis/wip3.gif
-    alt: "work in progress"
+    alt: "work in process"
   - url: /assets/projects/thesis/main2.jpg
     image_path: /assets/projects/thesis/main2.jpg
     alt: "all together"
@@ -41,7 +41,6 @@ gallery:
   - url: /assets/projects/thesis/album-demo.gif
     image_path: /assets/projects/thesis/album-demo.gif
     alt: "album demo"
- 
 order: 10
 ---
 ![main image](/assets/projects/thesis/main1.jpg)
