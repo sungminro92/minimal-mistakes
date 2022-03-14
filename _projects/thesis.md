@@ -2,7 +2,9 @@
 title: "Objects in Memories, Memories in Objects"
 excerpt: ""
 header:
-  image: /assets/projects/thesis/main.jpg
+  video:
+    id: "oRQVCgf9PJ8"
+    provider: youtube
   teaser: /assets/projects/thesis/th.jpg
 sidebar:
   - title: "Year"
@@ -12,55 +14,68 @@ sidebar:
   - title: "Category"
     text: "Speculative design, Critical design, Product design"
 gallery:
-  - url: /assets/projects/work-life-balance/prototype1.jpg
-    image_path: /assets/projects/work-life-balance/prototype1.jpg
-    alt: "prototype1"
-  - url: /assets/projects/work-life-balance/prototype2.jpg
-    image_path: /assets/projects/work-life-balance/prototype2.jpg
-    alt: "prototype2"
-  - url: /assets/projects/work-life-balance/prototype3.gif
-    image_path: /assets/projects/work-life-balance/prototype3.gif
-    alt: "prototype3"
+  - url: /assets/projects/thesis/globe-making.gif
+    image_path: /assets/projects/thesis/globe-making.gif
+    alt: "manipulating the globe"
+  - url: /assets/projects/thesis/wip1.gif
+    image_path: /assets/projects/thesis/wip1.gif
+    alt: "work in progress"
+  - url: /assets/projects/thesis/wip2.gif
+    image_path: /assets/projects/thesis/wip2.gif
+    alt: "work in progress"
+  - url: /assets/projects/thesis/wip3.gif
+    image_path: /assets/projects/thesis/wip3.gif
+    alt: "work in progress"
+  - url: /assets/projects/thesis/main2.jpg
+    image_path: /assets/projects/thesis/main2.jpg
+    alt: "all together"
+  - url: /assets/projects/thesis/sd-card1.jpg
+    image_path: /assets/projects/thesis/sd-card1.jpg
+    alt: "working with SD card"
+  - url: /assets/projects/thesis/phone.jpg
+    image_path: /assets/projects/thesis/phone.jpg
+    alt: "inside the phone"
+  - url: /assets/projects/thesis/sd-card2.jpg
+    image_path: /assets/projects/thesis/sd-card2.jpg
+    alt: "working with SD card"
+  - url: /assets/projects/thesis/album-demo.gif
+    image_path: /assets/projects/thesis/album-demo.gif
+    alt: "album demo"
+ 
 order: 10
 ---
+![main image](/assets/projects/thesis/main1.jpg)
 
-Created a series of object-centered products that pokes at the rising challenges and problems as the consequences of the blurred balance between work and life, especially caused by the rise of digital technology. These speculative product designs suggest physical-interaction-oriented methods to help office workers maintain an increased productivity and improve their current workaholic lifestyle for a healthy office-life-balance.
+## BACKGROUND
+We live in a tech-saturated world where digital devices proliferate. These electronics have changed the way we communicate with people, things, and data. With just a few keystrokes or swipes, we can obtain infinite information quickly and more efficiently. Nevertheless, we still depend on an analog world. As human beings, we use our physical senses to collect and consume information and process the signals to the brain to understand. We use our eyes to watch, ears to listen, nose to smell, tongue to taste, and hands to touch; this is how we learn, remember, and engage our minds more deeply.
 
-{% capture img1 %}
-![pdf1]({{ '/assets/projects/work-life-balance/pdf1.jpg' | relative_url }})
-{% endcapture %}
-{% capture img2 %}
-![pdf2]({{ '/assets/projects/work-life-balance/pdf2.jpg' | relative_url }})
-{% endcapture %}
-<figure>
-  {{ img1 | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
-<figure>
-  {{ img2 | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+Reminiscing about parts of my days that simply made me happy as a child - talking on the land-line phone for hours, looking at new snapshots and placing them photo albums which I never tired of perusing, and endlessly searching for new places on a rotating earth globe - I also have special connections to physically interacting with objects. We associate our memories with objects because perhaps the sense of touch is the most powerful and intimate among all. My nostalgia stems from the state of being connected physically and mentally, to others and to my imagination. it is not merely for the thing but the experience that it provided. When I used an old-fashioned, tethered handset to talk on the phone, my attention was not divided. I set down in one place and actively listened and spoke.
 
-## THE CHALLENGE
-How might we reimagine physical patterns of productivity for office workers to maintain a healthy work-life-balance and not to be excessively attached to digital disturbance
+## WHAT IS IT?
+My thesis project, Objects in Memories, Memories in Objects, is an interactive installation, consisting of three different artifacts from my 1990s childhood. They act as portals to my personal memories. The mechanics of the objects use wires and computational components to create a tangible interface. They will interactively work as inputs and triggers to browse through my memories, formatted digitally as images.
 
-{% capture challenge %}
-![challenge-gif]({{ '/assets/projects/work-life-balance/wlb_intro.gif' | relative_url }})
-{% endcapture %}
-<figure>
-  {{ challenge | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+## CONCEPT
+Digital vs. Analog: the project situates us in the in-between, neither fully accepting the current and the future state of technology nor completely abandoning the old and obsolete. These objects themselves have substance and weight as well as look and feel. The aesthetic of heft of them illustrate my appreciation for materiality and physical things. And the concept of complicating one simple digital interaction into multiple step-by-step interactions is to portray how minimized our digital interaction is through a flat screen. My piece considers how objects manipulated in 3 dimensions with our hands can tether us to the simple pleasure of being captured in the moment.
 
-## RESEARCH
-I began my research from learning more about the real situations of the current environment of the office job. I have interviewed with current students and alumni at Parsons and also those people outside school who must be physically present in the office for their job. The general investigation was to observe and find out how office workers consider the basic breakdown of the total amount of daily productivity performed in the office in relation to their satisfaction over their own accumulated efficiency.
+## INFLUENCES
+Tangible Interfaces
+Analog Devices
 
-## ANALYZE
-Individual interviewee reacted to each questions differently with behavioral variations. In summary of the responses, all of the interviewees work more than their assigned hours with the unspoken pressure to stay in. Approximately 15 minutes of coffee break adds up to three times a day and one hour for lunch was the average among all. In terms of productivity, I’ve had many different answers including interrupted productivity because most of them were having a difficulty to say no to other colleagues while they still liked part of interacting and being communicative with others. On the other hand, one interviewee, Jesse, has mentioned, “I don’t like it when people sitting next to me talk to me through Slack.” This particularly brought my attention to also look into the digital tools that are developed for office productivity and communications.
+## INSTALLATION PLAN
 
 {% include gallery %}
 
 
-![user-testing1](/assets/projects/thesis/user-test1.png)
-![user-testing2](/assets/projects/thesis/user-test2.png)
-![user-testing3](/assets/projects/thesis/user-test3.png)
+![user testing1](/assets/projects/thesis/user-test1.png)
+![user testing2](/assets/projects/thesis/user-test2.png)
+![user testing3](/assets/projects/thesis/user-test3.png)
 
-![phone-circuit-diagram](/assets/projects/thesis/phone-diagram.png)
-![album-circuit-diagram](/assets/projects/thesis/album-diagram.png)
+![phone circuit diagram](/assets/projects/thesis/phone-diagram.png)
+![album circuit diagram](/assets/projects/thesis/album-diagram.png)
+![globe circuit diagram](/assets/projects/thesis/globe-diagram.png)
+
+![installation plan](/assets/projects/thesis/globe-diagram.png)
+
+![[phone]](/assets/projects/thesis/phone-photo.jpg)
+![globe](/assets/projects/thesis/globe.jpg)
+![album](/assets/projects/thesis/album-photo.jpg)
