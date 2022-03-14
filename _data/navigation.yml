@@ -5,8 +5,7 @@ main:
   - title: "Projects"
     url: /projects/  
   - title: "Blogs"
-    url: /posts/
+    url: /blogs/
   - title: "TIL"
     url: /today-i-learned/
-  - title: "CV"
   #   url: /sitemap/

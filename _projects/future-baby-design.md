@@ -11,6 +11,7 @@ sidebar:
     text: "Sungmin Ro, Sean Scalan"
   - title: "Role"
     text: "Research, Design, Prototype production"
+order: 2
 ---
 ![image](/assets/projects/speculative/1.jpg)
 

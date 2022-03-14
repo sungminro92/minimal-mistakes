@@ -20,6 +20,7 @@ gallery:
   - url: /assets/projects/work-life-balance/prototype3.gif
     image_path: /assets/projects/work-life-balance/prototype3.gif
     alt: "prototype3"
+order: 1
 ---
 
 Created a series of object-centered products that pokes at the rising challenges and problems as the consequences of the blurred balance between work and life, especially caused by the rise of digital technology. These speculative product designs suggest physical-interaction-oriented methods to help office workers maintain an increased productivity and improve their current workaholic lifestyle for a healthy office-life-balance.
