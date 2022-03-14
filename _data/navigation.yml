@@ -8,4 +8,9 @@ main:
     url: /blogs/
   - title: "TIL"
     url: /today-i-learned/
-  #   url: /sitemap/
+
+sidebar-til:
+  - title: "React"
+    children:
+      - title: "API calls using useEffect"
+      - url: /today-i-learned/react-api-calls-using-useEffect/

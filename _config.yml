@@ -275,6 +275,10 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+
+  learnings:
+    output: true
+    permalink: /:collection/:path/  
   
 defaults:
   # _posts
@@ -286,10 +290,22 @@ defaults:
       author_profile: true
       read_time: true
       share: true
-   # _portfolio
+   # _projects
   - scope:
       path: ""
       type: projects
     values:
       layout: single
       share: true
+  # _learnings    
+  - scope:
+      path: ""
+      type: learnings
+    values:
+      layout: single
+      share: true
+      author_profile: false
+      read_time: true;   
+      sidebar:
+        title: "Today I Learned..."
+        nav: sidebar-til
