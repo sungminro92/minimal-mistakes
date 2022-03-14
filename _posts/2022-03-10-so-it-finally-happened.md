@@ -43,10 +43,20 @@ I might not be a good writer at all but I think starting today, using Jekyll as 
 ![previousPortfolio]({{ '/assets/posts/post1/previous-portfolio.jpg' | relative_url }})
 {% endcapture %}
 
+{% capture fig_gif %}
+![gif]({{ '/assets/posts/post1/gif.gif' | relative_url }})
+{% endcapture %}
+
+
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  {{ fig_gif | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>what my previous portfolio website looked like</figcaption>
 </figure>
+
+
+
+
 
 
 
