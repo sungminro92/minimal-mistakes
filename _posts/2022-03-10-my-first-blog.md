@@ -2,8 +2,7 @@
 title: "So, it finally happened!"
 excerpt_separator: "<!--more-->"
 categories:
-  - blog
-  - personal
+  - blogs
 tags:
   - Blog post
   - Personal diary

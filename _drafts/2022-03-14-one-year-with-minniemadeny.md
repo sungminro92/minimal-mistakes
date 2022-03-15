@@ -2,9 +2,9 @@
 title: "One year with a handmade wire flowers"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog post
+  - blog
   - Personal
-  - Small Business
+  - Small-Business
 tags:
   - Etsy Shop
   - Etsy Seller
